@@ -1,0 +1,43 @@
+body{
+background-color:powderblue;
+}
+
+hr {
+
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%
+}
+h3{
+  color: #112B3C
+}
+h1{
+  color:#251D3A
+}
+strong{
+    color: #001D6E
+}
+input{
+  color: #16003B
+
+}
+label{
+  color:#16003B;
+
+}
+p{
+  color:#16003B
+}
+table{
+  color: #16003B
+}
+ul{
+  color: #16003B
+}
+ol{
+  color: #16003B
+}
+
+}
